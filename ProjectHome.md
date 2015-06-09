@@ -1,0 +1,1 @@
+İYTE Acil Durum Eylem Planı sistematiği bir İzle-Çözümle-Planla-Yönet süreci olarak kabul edilmekte ve bu sürecin gereksinim duyduğu yazılım desteği IYTEacil Yazılım Projesi ile verilmesi hedeflenmektedir. Alt hedefler arasında öne çıkan hedefler ise; acil duruma tepkiyi hızlandırmak ile hazır olma durumunu izlemek ve izlettirmektir.
